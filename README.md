@@ -1,4 +1,10 @@
-# MoVMe
+# MoVMe App
+
+
+![ezgif-4-c8275a0ffd](https://user-images.githubusercontent.com/65102526/159147578-f6c52aae-6209-4282-b56f-9294f0cfc500.gif)
+
+
+
 Project ini merupakan salah satu assessment yang saya kerjakan untuk kebutuhan tes melamar kerja
 
 CARA INSTALL
