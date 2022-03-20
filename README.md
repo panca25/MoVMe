@@ -1,5 +1,5 @@
 # MoVMe
-Project ini merupakan salah satu assessment yang saya buat untuk kebutuhan tes melamar kerja
+Project ini merupakan salah satu assessment yang saya kerjakan untuk kebutuhan tes melamar kerja
 
 CARA INSTALL
 
